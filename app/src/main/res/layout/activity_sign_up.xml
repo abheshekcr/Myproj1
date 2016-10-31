@@ -70,10 +70,10 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
-            android:background="@null"
-            android:text="@string/btn_forgot_password"
+            android:background="@color/colorAccent"
+            android:text="Register as public"
             android:textAllCaps="false"
-            android:textColor="@color/colorAccent" />
+            android:textColor="@android:color/black" />
 
         <!-- Link to Login Screen -->
 
